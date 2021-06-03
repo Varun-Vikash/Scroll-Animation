@@ -2,7 +2,7 @@
 
 
 
-🔥 _Check out The Site for Output_ 💻
+ _Check out The Site for Output_ 💻 
 
 
 
