@@ -2,7 +2,7 @@
 
 
 
- _Check out The Codepen.io Site for Output_ 💻 
+ _Check out The Codepen.io Site for animation Output_ 💻 
 
 
 ![](https://github.com/Varun-Vikash/Scroll-Animation/blob/main/captures/Capture_Varun%4001.png)
